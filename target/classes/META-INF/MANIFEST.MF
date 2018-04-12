@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: crud_aluno
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Fernando
+Implementation-Vendor-Id: com.apisys
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/crud_aluno
+Created-By: Maven Integration for Eclipse
+
